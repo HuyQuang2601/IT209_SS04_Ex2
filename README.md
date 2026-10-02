@@ -2,7 +2,7 @@
 
 ## Trạng thái dự án
 
-Phiên bản hiện tại: 1.0 - Ứng dụng đang chạy ổn định.
+Phiên bản hiện tại: 2.0 - Đã bổ sung tính năng cập nhật hồ sơ người dùng.
 
 ## Mục tiêu thực hành
 
