@@ -2,7 +2,7 @@
 
 ## Trạng thái dự án
 
-Phiên bản hiện tại: 1.1 - Đã sửa lỗi bảo mật và cải thiện độ ổn định.
+Phiên bản hiện tại: 2.0 - Đã bổ sung tính năng cập nhật hồ sơ người dùng, sửa lỗi bảo mật và cải thiện độ ổn định.
 
 ## Mục tiêu thực hành
 
