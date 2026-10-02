@@ -2,7 +2,7 @@
 
 ## Trạng thái dự án
 
-Phiên bản hiện tại: 1.0 - Ứng dụng đang chạy ổn định.
+Phiên bản hiện tại: 1.1 - Đã sửa lỗi bảo mật và cải thiện độ ổn định.
 
 ## Mục tiêu thực hành
 
